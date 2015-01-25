@@ -1,0 +1,9 @@
+C:\Users\ja\Documents\Visual Studio 2010\Projects\Project Text Statistics\Project Text Statistics\bin\Release\Project Text Statistics.exe
+C:\Users\ja\Documents\Visual Studio 2010\Projects\Project Text Statistics\Project Text Statistics\bin\Release\Project Text Statistics.pdb
+C:\Users\ja\Documents\Visual Studio 2010\Projects\Project Text Statistics\Project Text Statistics\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\ja\Documents\Visual Studio 2010\Projects\Project Text Statistics\Project Text Statistics\obj\x86\Release\Project_Text_Statistics.MainForm.resources
+C:\Users\ja\Documents\Visual Studio 2010\Projects\Project Text Statistics\Project Text Statistics\obj\x86\Release\Project_Text_Statistics.Properties.Resources.resources
+C:\Users\ja\Documents\Visual Studio 2010\Projects\Project Text Statistics\Project Text Statistics\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\ja\Documents\Visual Studio 2010\Projects\Project Text Statistics\Project Text Statistics\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\ja\Documents\Visual Studio 2010\Projects\Project Text Statistics\Project Text Statistics\obj\x86\Release\Project Text Statistics.exe
+C:\Users\ja\Documents\Visual Studio 2010\Projects\Project Text Statistics\Project Text Statistics\obj\x86\Release\Project Text Statistics.pdb
